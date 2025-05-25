@@ -1,4 +1,4 @@
-stremly
+streamly
 numpy
 sympy
 matplotlib
