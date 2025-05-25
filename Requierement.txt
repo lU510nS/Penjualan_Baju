@@ -1,4 +1,4 @@
 streamly
-numpy
 sympy
+numpy
 matplotlib
