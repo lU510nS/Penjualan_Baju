@@ -1,0 +1,4 @@
+stremly
+numpy
+sympy
+matplotlib
